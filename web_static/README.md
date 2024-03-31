@@ -1,0 +1,1 @@
+Now that I have a command interpreter for managing my AirBnB objects, it’s time to make them alive!
